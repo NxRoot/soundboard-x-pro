@@ -5,11 +5,11 @@ Customizable Soundboard (Supports Virtual Audio)
 
 ## Features
 
-* 💯 &nbsp;Fully customizable soundboard.
-* ✍️ &nbsp;Save audios files and replay later.
+* 💯 &nbsp;Customizable soundboard.
+* ✍️ &nbsp;Save audio files and replay later.
 * ⌨️ &nbsp;Assign shortcut keys to replay audios.
 * ✅ &nbsp;Supports output to Virtual Audio Devices.
-* 🚀 &nbsp;Import or export your audios with one click.
+* 🚀 &nbsp;Import or export all audios with a single click.
 
 ## How to Install
 
