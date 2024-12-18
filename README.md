@@ -1,7 +1,7 @@
 # Soundboard X Pro
 Customizable Soundboard (Supports Virtual Audio)
 
-<img src="https://i.ibb.co/pjKyr0K/2024-12-1801-56-13-ezgif-com-video-to-gif-converter.gif">
+<img src="https://i.ibb.co/x73qN3S/2024-12-1820-05-08-ezgif-com-video-to-gif-converter.gif">
 
 ## Features
 
