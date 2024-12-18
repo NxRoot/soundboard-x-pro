@@ -20,7 +20,7 @@ Customizable Soundboard (Supports Virtual Audio)
 ## Output to Virtual Audio Device
 
 * You can select the audio output inside the application. 
-* To **emulate a microphone** device you need to install a virtual audio driver like [VB-CABLE](https://vb-audio.com/Cable/).
+* To **emulate a microphone device** you need to install a virtual audio driver like [VB-CABLE](https://vb-audio.com/Cable/).
 
 ## &nbsp;
 ⭐ If you find this useful!
