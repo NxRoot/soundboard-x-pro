@@ -24,7 +24,7 @@ Customizable Soundboard (Supports Virtual Audio)
 
 ## Steam voice settings for Virtual Audio Devices
 
-* Select the virtual audio device.
+* Select the virtual audio device as voice input.
 
 <img style="min-width: 600px;min-height: 600px; width: 600px;" src="https://i.ibb.co/ggssXjD/Steam-Mic-Settings.png"/>
 
