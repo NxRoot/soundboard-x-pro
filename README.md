@@ -22,5 +22,11 @@ Customizable Soundboard (Supports Virtual Audio)
 * You can select the audio output inside the application. 
 * To **emulate a microphone device** you need to install a virtual audio driver like [VB-CABLE](https://vb-audio.com/Cable/).
 
+## Steam voice settings for Virtual Audio Devices
+
+* Select the virtual audio device.
+
+<img style="min-width: 600px;min-height: 600px; width: 600px;" src="https://i.ibb.co/ggssXjD/Steam-Mic-Settings.png"/>
+
 ## &nbsp;
 ⭐ If you find this useful!
