@@ -10,6 +10,7 @@ Customizable Soundboard (Supports Virtual Audio)
 * ⌨️ &nbsp;Assign shortcut keys to replay audios.
 * ✅ &nbsp;Supports output to Virtual Audio Devices.
 * 🚀 &nbsp;Import or export all audios with a single click.
+* 🤖 &nbsp;Generate audios with realistic AI voices from  [ElevenLabs](https://elevenlabs.io/api).
 
 ## How to Install
 
